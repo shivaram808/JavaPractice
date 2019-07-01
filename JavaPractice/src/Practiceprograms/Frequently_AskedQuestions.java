@@ -1,7 +1,5 @@
 package Practiceprograms;
 
-
-
 	import java.util.ArrayList;
 	import java.util.Collections;
 	import java.util.HashMap;
@@ -32,7 +30,7 @@ package Practiceprograms;
 		
 		private char[] cs;
 
-		//@Test
+		@Test
 		public void repeted_words()
 		{
 			String sentence  = "This is Test Program Test Program";
@@ -282,7 +280,7 @@ package Practiceprograms;
 	 
 	// Array sorting of words
 		
-		 @Test
+		// @Test
 			
 			public void sortwords()
 			{

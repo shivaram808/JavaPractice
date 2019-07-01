@@ -1,5 +1,6 @@
 package Practiceprograms;
 
+// Sorting array of chars in alphabetical order
 import java.util.Scanner;
 public class Alphabetical_Order
 {
